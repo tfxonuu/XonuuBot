@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ SHAHNAWAZ ✨
 </h1>
 
 <p align="center">
@@ -45,14 +45,14 @@
 
 ## 🤖 Bot Usernames
 
-- [Saini_Contact](https://t.me/saini_contact_bot)
+- [Saini_Contact](https://t.me/tfxonuuBot)
 
 ---
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
+- 🔗 [shahnawaz](https://t.me/tfxonuuBot)
 
 ---
 
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
+> 👨‍💻 Created with ❤️ by [@ur.shahnawaz](https://instagram.com/tfxonu)
