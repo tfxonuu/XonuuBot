@@ -1,10 +1,10 @@
 services:
   - type: web
-    name: saini-txt-direct
+    name: shahnawaz
     plan: free
     env: docker
     dockerfilePath: Dockerfile
-    repo: https://github.com/nikhilsainiop/Saini-txt-direct
+    repo: https://t.me/TfxonuBot
     branch: main
     autoDeploy: false
     envVars:
